@@ -1,2 +1,2 @@
 # Sweat-Treats
-Sweat Treats cake order suvey form
+Sweat Treats cake order survey form
