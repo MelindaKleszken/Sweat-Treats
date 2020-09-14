@@ -1,0 +1,4 @@
+
+const projectName = 'survey-form';
+
+
